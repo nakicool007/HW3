@@ -1,0 +1,6 @@
+# Python 3.10 or newer. Feature calculations use the Python standard library.
+ipython>=8,<10
+ipykernel>=6,<8
+jupyterlab>=4,<5
+nbconvert>=7,<8
+nbformat>=5,<6
